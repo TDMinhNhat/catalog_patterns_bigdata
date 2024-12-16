@@ -1,0 +1,1 @@
+# catalog_patterns_bigdata
